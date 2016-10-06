@@ -3,3 +3,4 @@
 #Life is good
 #I really enjoy it
 #Especially because I have so many amazing people in my life.
+#My final commit will delete all of this, thats the plan
