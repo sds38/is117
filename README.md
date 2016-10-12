@@ -7,7 +7,8 @@
 
 <i> "Though life may seem too good to be true, sometimes it is true" </i>
 <b> Never stop being determined, thats how you can get better </b>
-<a> href = "https://www.google.com"> Link to Google <a>
+<a href="https://www.google.com"> Link to Google </a>
+<h1> this is me committing for the exam </h1>
 
 
 <hr />
@@ -27,7 +28,10 @@
 <hr />
 
 
+
 <h1> I am inserting this to prove I did the exam at 10/12/2016 </h1>
+
+
 
 
 <img src="http://pre07.deviantart.net/3302/th/pre/i/2011/235/9/0/tree_scene_by_nbc011795-d47iwgq.jpg" /> 
